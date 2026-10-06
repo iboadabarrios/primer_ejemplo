@@ -61,7 +61,8 @@ $$
 x= 2^4 * y 
 $$
 
-
+![Foto_1](github1.png)
+![Gif_1](giphy_gibhub1.gif)
 
 
 
